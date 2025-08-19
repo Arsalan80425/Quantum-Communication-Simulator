@@ -1,6 +1,6 @@
 # 🌌 Quantum Communication Simulator
 
-![Quantum Communication Simulator Banner](https://raw.githubusercontent.com/Arsalan80425/Quantum-Communication-Simulator/main/Results/Nodes_Simulation.png)
+![Quantum Communication Simulator Banner](https://raw.githubusercontent.com/Arsalan80425/Quantum-Communication-Simulator/refs/heads/master/Results/Nodes_Simulation.png)
 
 ## 📊 Interactive Visualization of Quantum Entanglement, Noise, and Purification
 

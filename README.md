@@ -67,19 +67,19 @@ This simulator serves as both an educational tool for understanding quantum comm
 ## 📸 Screenshots
 
 ### Main Interface
-![Main Interface](https://raw.githubusercontent.com/Arsalan80425/Quantum-Communication-Simulator/main/Results/main-interface.png)
+![Main Interface](https://raw.githubusercontent.com/Arsalan80425/Quantum-Communication-Simulator/refs/heads/master/Results/main-interface.png)
 *The main interface showing the quantum network visualization and control panel*
 
 ### Quantum Circuit View
-![Quantum Circuit](https://raw.githubusercontent.com/Arsalan80425/Quantum-Communication-Simulator/main/Results/quantum-circuit.png)
+![Quantum Circuit](https://raw.githubusercontent.com/Arsalan80425/Quantum-Communication-Simulator/refs/heads/master/Results/quantum-circuit.png)
 *Detailed quantum circuit visualization with gates and qubit states*
 
 ### Fidelity Chart
-![Fidelity Chart](https://raw.githubusercontent.com/Arsalan80425/Quantum-Communication-Simulator/main/Results/fidelity-chart.png)
+![Fidelity Chart](https://raw.githubusercontent.com/Arsalan80425/Quantum-Communication-Simulator/refs/heads/master/Results/fidelity-chart.png)
 *Real-time tracking of quantum fidelity throughout the simulation*
 
 ### Results Analysis
-![Results Analysis](https://raw.githubusercontent.com/Arsalan80425/Quantum-Communication-Simulator/main/Results/results-analysis.png)
+![Results Analysis](https://raw.githubusercontent.com/Arsalan80425/Quantum-Communication-Simulator/refs/heads/master/Results/results-analysis.png)
 *Comprehensive breakdown of simulation results and performance metrics*
 
 ---

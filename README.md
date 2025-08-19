@@ -1,11 +1,11 @@
 # 🌌 Quantum Communication Simulator
 
-![Quantum Communication Simulator Banner](https://raw.githubusercontent.com/Slygriyrsk/quantum-communication-simulator/main/Results/Nodes_Simulation.png)
+![Quantum Communication Simulator Banner](https://raw.githubusercontent.com/Arsalan80425/Quantum-Communication-Simulator/main/Results/Nodes_Simulation.png)
 
 ## 📊 Interactive Visualization of Quantum Entanglement, Noise, and Purification
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Version](https://img.shields.io/badge/version-1.0.0-brightgreen.svg)](https://github.com/yourusername/quantum-communication-simulator)
+[![Version](https://img.shields.io/badge/version-1.0.0-brightgreen.svg)](https://github.com/yourusername/Quantum-Communication-Simulator)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
 > A cutting-edge web-based simulator for quantum communication networks that visualizes quantum entanglement, noise effects, and purification protocols in real-time.
@@ -67,19 +67,19 @@ This simulator serves as both an educational tool for understanding quantum comm
 ## 📸 Screenshots
 
 ### Main Interface
-![Main Interface](https://raw.githubusercontent.com/Slygriyrsk/quantum-communication-simulator/main/Results/main-interface.png)
+![Main Interface](https://raw.githubusercontent.com/Arsalan80425/Quantum-Communication-Simulator/main/Results/main-interface.png)
 *The main interface showing the quantum network visualization and control panel*
 
 ### Quantum Circuit View
-![Quantum Circuit](https://raw.githubusercontent.com/Slygriyrsk/quantum-communication-simulator/main/Results/quantum-circuit.png)
+![Quantum Circuit](https://raw.githubusercontent.com/Arsalan80425/Quantum-Communication-Simulator/main/Results/quantum-circuit.png)
 *Detailed quantum circuit visualization with gates and qubit states*
 
 ### Fidelity Chart
-![Fidelity Chart](https://raw.githubusercontent.com/Slygriyrsk/quantum-communication-simulator/main/Results/fidelity-chart.png)
+![Fidelity Chart](https://raw.githubusercontent.com/Arsalan80425/Quantum-Communication-Simulator/main/Results/fidelity-chart.png)
 *Real-time tracking of quantum fidelity throughout the simulation*
 
 ### Results Analysis
-![Results Analysis](https://raw.githubusercontent.com/Slygriyrsk/quantum-communication-simulator/main/Results/results-analysis.png)
+![Results Analysis](https://raw.githubusercontent.com/Arsalan80425/Quantum-Communication-Simulator/main/Results/results-analysis.png)
 *Comprehensive breakdown of simulation results and performance metrics*
 
 ---
@@ -95,8 +95,8 @@ This simulator serves as both an educational tool for understanding quantum comm
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Slygriyrsk/quantum-communication-simulator.git
-   cd quantum-communication-simulator
+   git clone https://github.com/Arsalan80425/Quantum-Communication-Simulator.git
+   cd Quantum-Communication-Simulator
    ```
 2. Open the project:
 
@@ -134,14 +134,14 @@ python server.py
 
 3\. Open your browser and navigate to: `http://localhost:5000`
 
-4\. Alternatively, visit the live demo at: [https://Slygriyrsk.github.io/quantum-communication-simulator](https://devrizz.github.io/quantum-communication-simulator/)
+4\. Alternatively, visit the live demo at: [https://Arsalan80425.github.io/Quantum-Communication-Simulator](https://devrizz.github.io/Quantum-Communication-Simulator/)
 
 ---
 
 ## 📁 Project Structure
 
 ```plaintext
-quantum-communication-simulator/
+Quantum-Communication-Simulator/
 ├── twonode.html            # Self-contained two-node simulator (includes CSS & JS)
 ├── multinode.html          # Multi-node simulator HTML
 ├── style.css               # Main stylesheet for multi-node simulator
@@ -241,7 +241,7 @@ python -m http.server
 
 2\. Or simply open `index.html` directly in your browser
 
-3\. Alternatively, visit the live demo at: [https://Slygriyrsk.github.io/quantum-communication-simulator](https://devrizz.github.io/quantum-communication-simulator/)
+3\. Alternatively, visit the live demo at: [https://Arsalan80425.github.io/Quantum-Communication-Simulator](https://devrizz.github.io/Quantum-Communication-Simulator/)
 
 ---
 
@@ -515,4 +515,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📬 Contact
 
-Project Link: [https://github.com/Slygriyrsk/quantum-communication-simulator](https://github.com/Slygriyrsk/quantum-communication-simulator)
+Project Link: [https://github.com/Arsalan80425/Quantum-Communication-Simulator](https://github.com/Arsalan80425/Quantum-Communication-Simulator)

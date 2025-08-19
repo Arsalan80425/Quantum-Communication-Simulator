@@ -130,3 +130,5 @@ out
 
 dist
 myvenv
+
+.vscode
